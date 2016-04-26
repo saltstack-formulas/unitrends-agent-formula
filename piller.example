@@ -1,0 +1,4 @@
+unitrends:
+  agent:
+    package: unitrends-linux-agent-8.2.0-4.201508272114.x86_64.rpm 
+    backup-server: server.domain.tld
